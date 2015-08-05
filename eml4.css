@@ -1,0 +1,67 @@
+.center {
+	width: 900px;
+	margin: 0 auto;
+}
+
+nav {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-decoration: none;
+	color: gray;
+	clear: both;
+}
+
+.nav li {
+	display: inline;
+
+
+}
+
+.nav a {
+	display: inline-block;
+	padding: 0 20px;
+	text-decoration: none;
+	color: gray;
+	font-family: "Helvetica";
+}
+
+h1 {
+	font-family: "Helvetica";
+	color: darkgrey;
+}
+
+.maintitle {
+	font-family: "Helvetica";
+
+
+}
+
+#portrait {
+	float: left;
+	width: 500px;
+
+}
+
+.columns {
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	width: 40%;
+
+}
+
+.wrap {
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 50px;
+	margin-bottom: 150px;
+}
+
+/*img {
+	float: left;
+	width: 400px;
+
+}*/
